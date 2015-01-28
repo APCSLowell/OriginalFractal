@@ -9,7 +9,7 @@ Samples of Student Work
 [Camilia](http://cakacimi.github.io/OriginalFractal/)  
 [Zachary](http://zachooz.github.io/OriginalFractal/)  
 [Averal](http://avekan33.github.io/OriginalFractal/)  
-[Jeffrey](http://jeffreyyin1.github.io/OriginalFractal/) 
+[Jeffrey](http://jeffreyyin1.github.io/OriginalFractal/)   
 [Yufan](http://yuxu1.github.io/OriginalFractal/)  
 [Jingbin](http://ben441318936.github.io/OriginalFractal/)  
 [Kenta](http://redtorch.github.io/OriginalFractal/)   

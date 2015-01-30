@@ -7,6 +7,8 @@ Samples of Student Work
 -----------------------
 [Lucy](http://luchen825.github.io/OriginalFractal/)  
 [Vanessa](http://vansee7.github.io/OriginalFractal/)  
+[Nathan](http://naguan.github.io/OriginalFractal/)   
+[Ethan](http://emdarcher.github.io/OriginalFractal/)   
 [Annie](http://anxie.github.io/OriginalFractal/)  
 [Cora](http://coramonokandilos.github.io/OriginalFractal/)  
 [Camilia](http://cakacimi.github.io/OriginalFractal/)  

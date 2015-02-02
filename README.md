@@ -25,3 +25,4 @@ Samples of Student Work
 [Christopher](http://chrisma1.github.io/OriginalFractal/)  
 [Antonio](http://adcarmona.github.io/OriginalFractal/)  
 [Luis](http://lmaragon.github.io/OriginalFractal/)  
+[Dylan](http://darkrune.github.io/OriginalFractal/)  

@@ -11,6 +11,7 @@ Samples of Student Work
 [Thomas](http://tomikam.github.io/OriginalFractal/)   
 [Nathan](http://naguan.github.io/OriginalFractal/)   
 [Aaron](http://aaronchowapcs.github.io/OriginalFractal/)   
+[Gideon](http://giteon.github.io/OriginalFractal/)   
 [Ethan](http://emdarcher.github.io/OriginalFractal/)   
 [Annie](http://anxie.github.io/OriginalFractal/)  
 [Cora](http://coramonokandilos.github.io/OriginalFractal/)  

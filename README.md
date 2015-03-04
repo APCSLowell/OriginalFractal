@@ -9,6 +9,7 @@ Samples of Student Work
 [Lucy](http://luchen825.github.io/OriginalFractal/)  
 [Vanessa](http://vansee7.github.io/OriginalFractal/)  
 [Thomas](http://tomikam.github.io/OriginalFractal/)   
+[Teresa](http://teresamibarra.me/OriginalFractal/)   
 [Nathan](http://naguan.github.io/OriginalFractal/)   
 [Aaron](http://aaronchowapcs.github.io/OriginalFractal/)   
 [Gideon](http://giteon.github.io/OriginalFractal/)   

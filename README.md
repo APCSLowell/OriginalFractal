@@ -5,6 +5,8 @@ In this assignment you will create your own original fractal design. You can cre
 
 Samples of Student Work
 -----------------------
+[Evan](http://evhuang.github.io/OriginalFractal/)  
+[Tain Lun](http://tianlunlee.github.io/OriginalFractal/)  
 [Lin](http://lin00.github.io/OriginalFractal/)  
 [Aliya](http://aliyachambless.github.io/OriginalFractal/)  
 [Rowan](http://rocassius.github.io/OriginalFractal/)   

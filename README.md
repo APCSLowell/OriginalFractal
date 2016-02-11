@@ -8,6 +8,7 @@ Samples of Student Work
 [Noah](http://noahzpepper.github.io/OriginalFractal/)  
 [Jeremy](http://gitrektapcs.github.io/OriginalFractal/)  
 [Edmond](http://edmondsitu.github.io/OriginalFractal/)  
+[Skylar](http://sky121.github.io/OriginalFractal/)  
 [Brandi](http://brw1221.github.io/OriginalFractal/)  
 [Jeanette](http://roquefortt.github.io/OriginalFractal/)  
 [David](http://unuse45.github.io/OriginalFractal/)  

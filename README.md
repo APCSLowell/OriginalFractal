@@ -8,6 +8,7 @@ Samples of Student Work
 [Megan](http://meegee98.github.io/OriginalFractal/)  
 [Amy](http://amhe3.github.io/OriginalFractal/)  
 [Christopher](http://cjlim2007apcs.github.io/OriginalFractal/)  
+[Shaye](http://shayehong.github.io/OriginalFractal/)  
 [Rhea](http://rhsharma.github.io/OriginalFractal/)  
 [Stephen](http://stephendoes.github.io/OriginalFractal/)  
 [Eric](http://eryup.github.io/OriginalFractal/)  

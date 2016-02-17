@@ -9,6 +9,8 @@ Samples of Student Work
 [Stephen](http://stephendoes.github.io/OriginalFractal/)  
 [Eric](http://eryup.github.io/OriginalFractal/)  
 [Henry](http://usaruner.github.io/OriginalFractal/)  
+[Francisco](http://frbui.github.io/OriginalFractal/)  
+[Leanna](http://leannayu.github.io/OriginalFractal/)  
 [Hannah](http://kaliburr.github.io/OriginalFractal/)  
 [Terrrence](http://auxoworks.github.io/OriginalFractal/)  
 [Alex](http://alexlo1.github.io/OriginalFractal/)  

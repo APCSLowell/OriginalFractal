@@ -14,6 +14,7 @@ Samples of Student Work
 [Eric](http://eryup.github.io/OriginalFractal/)  
 [Kaki](http://kaki123.github.io/OriginalFractal/)  
 [Henry](http://usaruner.github.io/OriginalFractal/)  
+[Michelle](http://xmichellex.github.io/OriginalFractal/)  
 [Francisco](http://frbui.github.io/OriginalFractal/)  
 [Leanna](http://leannayu.github.io/OriginalFractal/)  
 [Hannah](http://kaliburr.github.io/OriginalFractal/)  

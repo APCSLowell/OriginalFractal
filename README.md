@@ -19,6 +19,8 @@ Samples of Student Work
 [Michelle](http://xmichellex.github.io/OriginalFractal/)  
 [Francisco](http://frbui.github.io/OriginalFractal/)  
 [Leanna](http://leannayu.github.io/OriginalFractal/)  
+[Thomas](http://leechak.github.io/OriginalFractal/)  
+[Tiger](http://tigerrlao.github.io/OriginalFractal/)  
 [Hannah](http://kaliburr.github.io/OriginalFractal/)  
 [Terrrence](http://auxoworks.github.io/OriginalFractal/)  
 [Alex](http://alexlo1.github.io/OriginalFractal/)  

@@ -11,6 +11,7 @@ Samples of Student Work
 [Edmund](http://firework999363.github.io/OriginalFractal/)  
 [Fiona](http://wongfiona.github.io/OriginalFractal/)  
 [Parker](http://parker101200.github.io/OriginalFractal/)  
+[Edward](http://edyuen.github.io/OriginalFractal/)  
 [Helen](http://hezhang2.github.io/OriginalFractal/)  
 [Justin](http://theotherjustin.github.io/OriginalFractal/)  
 [Alica](http://aliciazz.github.io/OriginalFractal/)  

@@ -11,6 +11,8 @@ Samples of Student Work
 [Aaron](http://aaronng1001.github.io/OriginalFractal/)  
 [Raul](http://raulrosen.github.io/OriginalFractal/)  
 [Carl](http://cahouweling.github.io/OriginalFractal/)  
+[Elliott](http://elliottdebruin.github.io/OriginalFractal/)  
+[Ivan](http://greypoupon.github.io/OriginalFractal/)  
 [Yang](http://giangd.github.io/OriginalFractal/)  
 [Lawrence](http://shakaking.github.io/OriginalFractal/)  
 [Kelly](http://kellyhuang21.github.io/OriginalFractal/)  

@@ -11,6 +11,7 @@ public void draw()
   bob(460,140,130);
   cat(20,550,130);
   gg(470,460,100);
+  //Hia
 }
 
 public void fractal(int x, int y, int rate)

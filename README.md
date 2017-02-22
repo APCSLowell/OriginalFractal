@@ -12,6 +12,7 @@ Samples of Student Work
 [Kevin](https://tig787.github.io/OriginalFractal/)   
 [Bryan](https://bzin22.github.io/OriginalFractal/)   
 [Sharon](https://shtai.github.io/OriginalFractal/)   
+[Kyle](https://yachtmasterkyle.github.io/OriginalFractal/)   
 [Vivan](https://viviaann.github.io/OriginalFractal/)   
 [Gina](https://gimontarano.github.io/OriginalFractal/)   
 [Leonard](https://leonardc415.github.io/OriginalFractal/)   

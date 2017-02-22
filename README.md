@@ -7,6 +7,7 @@ Samples of Student Work
 -----------------------
 [Garvin](https://garvingit.github.io/OriginalFractal/)   
 [Kendra](https://pastalover45.github.io/OriginalFractal/)   
+[Brandon](https://zawszefl.github.io/OriginalFractal/)   
 [Lydia](https://aqua28.github.io/OriginalFractal/)   
 [Kevin](https://tig787.github.io/OriginalFractal/)   
 [Bryan](https://bzin22.github.io/OriginalFractal/)   

@@ -7,7 +7,7 @@ Samples of Student Work
 -----------------------
 [Jalen](https://asdfsdf1234.github.io/OriginalFractal/)   
 [Kevin](https://kekuang2.github.io/OriginalFractal/)   
-[Yoland](https://yofeng.github.io/OriginalFractal/}   
+[Yolanda](https://yofeng.github.io/OriginalFractal/)      
 [Garvin](https://garvingit.github.io/OriginalFractal/)   
 [Kendra](https://pastalover45.github.io/OriginalFractal/)   
 [Brandon](https://zawszefl.github.io/OriginalFractal/)   

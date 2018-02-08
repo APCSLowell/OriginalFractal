@@ -8,6 +8,7 @@ Samples of Student Work
 [Maxwell](https://selflessnarcissist.github.io/OriginalFractal/)   
 [Zacharay](https://dengzacapcs.github.io/OriginalFractal/)   
 [Ravi](https://ravik0.github.io/OriginalFractal/)   
+[Ali](https://shaikh7860.github.io/OriginalFractal/)   
 [Amanda](https://amkallenbach.github.io/OriginalFractal/)   
 [Bryce](https://brycekeetonazaz.github.io/OriginalFractal/)   
 [Jalen](https://asdfsdf1234.github.io/OriginalFractal/)   

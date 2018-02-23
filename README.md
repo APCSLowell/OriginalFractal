@@ -10,6 +10,7 @@ Samples of Student Work
 [Annie](https://althevia.github.io/OriginalFractal/)   
 [Joe](https://joehuang1108.github.io/OriginalFractal/)   
 [Alex](http://alexruiz.me/OriginalFractal/)   
+[Benjamin](https://noobilicious.github.io/OriginalFractal/)   
 [Andrew](https://drewren25.github.io/OriginalFractal/)   
 [Prescott](https://prescott00000.github.io/OriginalFractal/)   
 [Jeffrey](https://jeffreythesloth.github.io/OriginalFractal/)   

@@ -5,6 +5,16 @@ In this assignment you will create your own original fractal design. You can cre
 
 Samples of Student Work
 -----------------------
+[Vicky](https://vickyguan3.github.io/OriginalFractal/)   
+[Lily](https://cailcali.github.io/OriginalFractal/)   
+[Iryne](https://irynechu.github.io/OriginalFractal/)   
+[Esther](https://estherchung83.github.io/OriginalFractal/)   
+[Neo](https://neoguer.github.io/OriginalFractal/)   
+[Omar](https://omaralkharji.github.io/OriginalFractal/)   
+[Emma](https://emmab3.github.io/OriginalFractal/)   
+[Jackson](https://jacksonjude.github.io/OriginalFractal/)   
+[Calvin](https://callmecalvin808.github.io/OriginalFractal/)   
+[Juliana](https://solojuliana.github.io/OriginalFractal/)   
 [Jack](https://paintcannon.github.io/OriginalFractal/)   
 [Chris](https://chrisc641.github.io/OriginalFractal/)   
 [Emil](https://emil000.github.io/OriginalFractal/)   

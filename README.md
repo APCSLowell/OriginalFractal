@@ -26,6 +26,7 @@ Samples of Student Work
 [Gordon](https://goyee.github.io/OriginalFractal/)   
 [Cindy](https://sancyndia.github.io/OriginalFractal/)   
 [Alvin](https://alvin4ever.github.io/OriginalFractal/)   
+[Andy](https://anwu1.github.io/OriginalFractal/)   
 [Jessie](https://ie-jess.github.io/OriginalFractal/)   
 [Raymond](https://luzray56.github.io/OriginalFractal/)   
 [Rowan](https://rowanmckereghan.github.io/OriginalFractal/)   

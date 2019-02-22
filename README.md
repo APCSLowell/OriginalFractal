@@ -7,6 +7,7 @@ Samples of Student Work
 -----------------------
 [Marc](https://alltheusernamesdontworkexceptmine.github.io/OriginalFractal/)   
 [Devin](https://dely4.github.io/OriginalFractal/)   
+[David](https://dactualchung.github.io/OriginalFractal/)   
 [Lucian](https://lucianli.github.io/OriginalFractal/)   
 [Eunice](https://euborres.github.io/OriginalFractal/)   
 [Briana](https://brli6.github.io/OriginalFractal/)   

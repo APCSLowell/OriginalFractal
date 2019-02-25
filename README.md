@@ -10,6 +10,7 @@ Samples of Student Work
 [David](https://dactualchung.github.io/OriginalFractal/)   
 [Lucian](https://lucianli.github.io/OriginalFractal/)   
 [Eunice](https://euborres.github.io/OriginalFractal/)   
+[Josh](https://jowong1.github.io/OriginalFractal/)   
 [Briana](https://brli6.github.io/OriginalFractal/)   
 [Vicky](https://vickyguan3.github.io/OriginalFractal/)   
 [Christine](https://chmai3.github.io/OriginalFractal/)   

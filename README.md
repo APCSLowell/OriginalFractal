@@ -42,6 +42,7 @@ Samples of Student Work
 [Ethan](https://ethantruong.github.io/OriginalFractal/)   
 [Peter](https://peterwu1205.github.io/OriginalFractal/)   
 [Brandon](https://btlsandwich.github.io/OriginalFractal/)   
+[Jae](https://jaehub.github.io/OriginalFractal/)   
 [Nathan](https://nathanw1510.github.io/OriginalFractal/)   
 [Lawrence](https://lawrencelowell.github.io/OriginalFractal/)   
 [Anthony](https://aanthh.github.io/OriginalFractal/)   

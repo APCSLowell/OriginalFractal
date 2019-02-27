@@ -13,6 +13,7 @@ Samples of Student Work
 [Eunice](https://euborres.github.io/OriginalFractal/)   
 [Dylan](https://dessex.github.io/OriginalFractal/)   
 [Josh](https://jowong1.github.io/OriginalFractal/)   
+[Timmy](https://tidang.github.io/OriginalFractal/)   
 [Wesley](https://wesleynhan.github.io/OriginalFractal/)   
 [Briana](https://brli6.github.io/OriginalFractal/)   
 [Sam](https://saxie1.github.io/OriginalFractal/)   

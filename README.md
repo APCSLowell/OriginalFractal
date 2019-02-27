@@ -12,6 +12,7 @@ Samples of Student Work
 [Raymond](https://raysandvectors.github.io/OriginalFractal/)   
 [Eunice](https://euborres.github.io/OriginalFractal/)   
 [Dylan](https://dessex.github.io/OriginalFractal/)   
+[David](https://daamaya.github.io/OriginalFractal/)   
 [Josh](https://jowong1.github.io/OriginalFractal/)   
 [Timmy](https://tidang.github.io/OriginalFractal/)   
 [Wesley](https://wesleynhan.github.io/OriginalFractal/)   

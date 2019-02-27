@@ -9,6 +9,7 @@ Samples of Student Work
 [Devin](https://dely4.github.io/OriginalFractal/)   
 [David](https://dactualchung.github.io/OriginalFractal/)   
 [Lucian](https://lucianli.github.io/OriginalFractal/)   
+[Raymond](https://raysandvectors.github.io/OriginalFractal/)   
 [Eunice](https://euborres.github.io/OriginalFractal/)   
 [Josh](https://jowong1.github.io/OriginalFractal/)   
 [Wesley](https://wesleynhan.github.io/OriginalFractal/)   

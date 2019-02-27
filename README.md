@@ -14,6 +14,7 @@ Samples of Student Work
 [Josh](https://jowong1.github.io/OriginalFractal/)   
 [Wesley](https://wesleynhan.github.io/OriginalFractal/)   
 [Briana](https://brli6.github.io/OriginalFractal/)   
+[Sam](https://saxie1.github.io/OriginalFractal/)   
 [Vicky](https://vickyguan3.github.io/OriginalFractal/)   
 [Christine](https://chmai3.github.io/OriginalFractal/)   
 [Ian](https://iatang21.github.io/OriginalFractal/)   
